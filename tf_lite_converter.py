@@ -1,3 +1,6 @@
+import sys
+sys.path.insert(0, r'E:\mypackages')
+
 import os
 import argparse
 import onnx
